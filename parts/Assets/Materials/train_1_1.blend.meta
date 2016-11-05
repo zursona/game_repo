@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 299bebb510b755c4db3f3332a718bd86
+timeCreated: 1478378816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCurve_001
+    100002: Circle
+    100004: control_rotator_1
+    100006: Cube
+    100008: Cube_001
+    100010: Cylinder
+    100012: Cylinder_001
+    100014: Cylinder_002
+    100016: Cylinder_003
+    100018: Cylinder_004
+    100020: Cylinder_005
+    100022: Cylinder_006
+    100024: Cylinder_007
+    100026: Cylinder_008
+    100028: Plane_001
+    100030: rotator_1
+    100032: rotator_2
+    100034: rotator_3
+    100036: rotator_4
+    100038: //RootNode
+    100040: wheel_1
+    100042: wheel_2
+    100044: wheel_3
+    100046: wheel_3_part_1
+    100048: wheel_3_part_2
+    100050: wheel_3_part_3
+    100052: wheel_3_part_4
+    100054: wheel_4
+    400000: BezierCurve_001
+    400002: Circle
+    400004: control_rotator_1
+    400006: Cube
+    400008: Cube_001
+    400010: Cylinder
+    400012: Cylinder_001
+    400014: Cylinder_002
+    400016: Cylinder_003
+    400018: Cylinder_004
+    400020: Cylinder_005
+    400022: Cylinder_006
+    400024: Cylinder_007
+    400026: Cylinder_008
+    400028: Plane_001
+    400030: rotator_1
+    400032: rotator_2
+    400034: rotator_3
+    400036: rotator_4
+    400038: //RootNode
+    400040: wheel_1
+    400042: wheel_2
+    400044: wheel_3
+    400046: wheel_3_part_1
+    400048: wheel_3_part_2
+    400050: wheel_3_part_3
+    400052: wheel_3_part_4
+    400054: wheel_4
+    2300000: BezierCurve_001
+    2300002: Circle
+    2300004: Cube
+    2300006: Cube_001
+    2300008: Cylinder
+    2300010: Cylinder_001
+    2300012: Cylinder_002
+    2300014: Cylinder_003
+    2300016: Cylinder_004
+    2300018: Cylinder_005
+    2300020: Cylinder_006
+    2300022: Cylinder_007
+    2300024: Cylinder_008
+    2300026: Plane_001
+    2300028: rotator_1
+    2300030: rotator_2
+    2300032: rotator_3
+    2300034: rotator_4
+    2300036: wheel_1
+    2300038: wheel_2
+    2300040: wheel_3
+    2300042: wheel_3_part_1
+    2300044: wheel_3_part_2
+    2300046: wheel_3_part_3
+    2300048: wheel_3_part_4
+    2300050: wheel_4
+    3300000: BezierCurve_001
+    3300002: Circle
+    3300004: Cube
+    3300006: Cube_001
+    3300008: Cylinder
+    3300010: Cylinder_001
+    3300012: Cylinder_002
+    3300014: Cylinder_003
+    3300016: Cylinder_004
+    3300018: Cylinder_005
+    3300020: Cylinder_006
+    3300022: Cylinder_007
+    3300024: Cylinder_008
+    3300026: Plane_001
+    3300028: rotator_1
+    3300030: rotator_2
+    3300032: rotator_3
+    3300034: rotator_4
+    3300036: wheel_1
+    3300038: wheel_2
+    3300040: wheel_3
+    3300042: wheel_3_part_1
+    3300044: wheel_3_part_2
+    3300046: wheel_3_part_3
+    3300048: wheel_3_part_4
+    3300050: wheel_4
+    4300000: BezierCurve_001
+    4300002: Cube_001
+    4300004: Cylinder_008
+    4300006: wheel_3
+    4300008: rotator_3
+    4300010: wheel_3_part_3
+    4300012: Cylinder_003
+    4300014: wheel_1
+    4300016: wheel_3_part_1
+    4300018: Cylinder_006
+    4300020: rotator_1
+    4300022: wheel_2
+    4300024: wheel_3_part_2
+    4300026: rotator_2
+    4300028: wheel_4
+    4300030: wheel_3_part_4
+    4300032: Cylinder_005
+    4300034: rotator_4
+    4300036: Cylinder_004
+    4300038: Cylinder_007
+    4300040: Plane_001
+    4300042: Cube
+    4300044: Cylinder_002
+    4300046: Cylinder_001
+    4300048: Circle
+    4300050: Cylinder
+    7400000: animate_wheel
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: animate_wheel
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BezierCurve_001
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: control_rotator_1
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: Cylinder_004
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_006
+        weight: 1
+      - path: Cylinder_007
+        weight: 1
+      - path: Cylinder_008
+        weight: 1
+      - path: Plane_001
+        weight: 1
+      - path: rotator_1
+        weight: 1
+      - path: rotator_2
+        weight: 1
+      - path: rotator_3
+        weight: 1
+      - path: rotator_4
+        weight: 1
+      - path: wheel_1
+        weight: 1
+      - path: wheel_2
+        weight: 1
+      - path: wheel_3
+        weight: 1
+      - path: wheel_3_part_1
+        weight: 1
+      - path: wheel_3_part_2
+        weight: 1
+      - path: wheel_3_part_3
+        weight: 1
+      - path: wheel_3_part_4
+        weight: 1
+      - path: wheel_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

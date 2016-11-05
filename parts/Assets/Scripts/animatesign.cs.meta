@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce03c77b1a1aed6488d9a8b25dc7668a
+timeCreated: 1477848757
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sign_object: {fileID: 100000, guid: 373b8affc95181142b25e3c67f9122f9, type: 3}
+  - animation1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
